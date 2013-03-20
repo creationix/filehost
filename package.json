@@ -1,0 +1,17 @@
+{
+  "name": "filehost",
+  "version": "0.0.0",
+  "description": "A simple CLI tool to host files over HTTP",
+  "bin": {
+    "filehost": "filehost.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/filehost.git"
+  },
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT",
+  "dependencies": {
+    "send": "~0.1.0"
+  }
+}
